@@ -10,4 +10,4 @@ I'm a Master's student in Information Systems Engineering passionate about build
 
 ⚡ Curious about technology and turning ideas into reality.
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/sarra-haddad-ba0b6b250)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarra-haddad-ba0b6b250/)
