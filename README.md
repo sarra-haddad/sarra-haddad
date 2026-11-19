@@ -13,22 +13,10 @@ I'm a Master's student in Information Systems Engineering passionate about build
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarra-haddad-ba0b6b250/)
 
 
+
 ## 🛠️ Tech Stack
 
-**Languages**
+[![My Skills](https://skillicons.dev/icons?i=flutter,laravel,react,spring,postman,git,github,mysql,mongodb,docker,python&theme=dark)](https://skillicons.dev)
 
-![Languages](https://skillicons.dev/icons?i=java,js,ts,python,php&theme=dark)
-
-**Frontend & Backend**
-
-![Frameworks](https://skillicons.dev/icons?i=react,flutter,tailwind,spring,laravel&theme=dark)
-
-**Databases & Tools**
-
-![Tools](https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode&theme=dark)
-
-## 🌱 Currently Exploring
-
-AI Integration · AI Agents · Docker · Jenkins · Grafana
 
 
