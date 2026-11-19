@@ -4,7 +4,7 @@ I'm a Master's student in Information Systems Engineering passionate about build
 
 🌱 Currently exploring **AI Integration, AI Agents & DevOps**.
 
-💻 Interested in **Full-Stack Web & Mobile Development**.
+💻 I enjoy building Full-Stack Web & Mobile applications.
 
 🎯 Always learning, building, and improving my software engineering skills.
 
