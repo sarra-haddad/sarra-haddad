@@ -16,7 +16,7 @@ I'm a Master's student in Information Systems Engineering passionate about build
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,laravel,react,spring,postman,git,github,mysql,mongodb,docker,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,laravel,react,spring,postman,git,github,mysql,mongodb,docker,python,jenkinz&theme=dark)](https://skillicons.dev)
 
 
 
